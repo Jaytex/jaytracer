@@ -42,7 +42,9 @@ img{
     position: relative;
 }
 .lawless img{
-    height:360px;
+    min-width 640px;
+    min-height:360px;
+    max-height:360px;
 }
 
 .intro-header {
