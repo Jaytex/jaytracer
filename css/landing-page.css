@@ -37,13 +37,12 @@ body{
 }
 
 img{
-    width: 60%;
-    max-height: 40%;
+    max-height: 360px;
     position: relative;
 }
 .lawless img{
-    max-width:640px;
     max-height:360px;
+    position: fixed;
 }
 
 .intro-header {
