@@ -1,1 +1,1 @@
-# [Jaytracer](http://Jaytex.gitbub.io/jaytracer) 
+# [Jaytracer](http://jaytex.github.io/jaytracer/) 
