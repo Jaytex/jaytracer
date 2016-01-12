@@ -43,6 +43,7 @@ img{
 .lawless img{
 
     position: relative;
+
 }
 
 .intro-header {
@@ -133,6 +134,7 @@ img{
     padding: 100px 0;
     color: #f8f8f8;
     background: url(../img/bg1jpg) no-repeat center center;
+
     background-size: cover;
 }
 

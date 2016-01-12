@@ -326,6 +326,7 @@ if (typeof jQuery === 'undefined') {
 
   Carousel.DEFAULTS = {
     interval: 50000,
+
     pause: 'hover',
     wrap: true,
     keyboard: true
